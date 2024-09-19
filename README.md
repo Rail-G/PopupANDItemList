@@ -1,2 +1,1 @@
-
-[![Build status](https://ci.appveyor.com/api/projects/status/hwfqyve1i5uc0xsx?svg=true)](https://ci.appveyor.com/project/Rail-G/popupanditemtable)
+[![Build status](https://ci.appveyor.com/api/projects/status/jvwfvx6587kwyq9m?svg=true)](https://ci.appveyor.com/project/Rail-G/popupanditemlist)
